@@ -1,24 +1,20 @@
-/*!
- * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
-  font-size: 20px;
+  font-size: 30px;
 }
 p.small {
-  font-size: 16px;
+  font-size: 20px;
 }
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #13F3BE;
 }
 h1,
 h2,
@@ -68,7 +64,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #13F3BE;
   color: white;
 }
 header .container {
@@ -110,36 +106,36 @@ header .intro-text .skills {
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: gray;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: white;
+  color: gray;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: gray;
 }
 .navbar-custom .navbar-nav li a:hover {
   color: #18BC9C;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: gray;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: white;
-  background: #18BC9C;
+  color: gray;
+  background: #2CFACC;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  color: white;
-  background: #18BC9C;
+  color: gray;
+  background: #2CFACC;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -149,9 +145,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #2CFACC;
   color: white;
-  border-color: #18BC9C;
+  border-color: #2CFACC;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -223,7 +219,7 @@ section.success {
   text-align: center;
   top: 50%;
   margin-top: -12px;
-  color: white;
+  color: #2CFACC;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
@@ -507,7 +503,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #2CFACC;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
