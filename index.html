@@ -8,6 +8,8 @@
     <meta name="description" content="here">
     <meta name="author" content="NULL">
     <title>규성이의 취미 </title>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+    <link rel="stylesheet" href="./style.css">
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/freelancer.min.css" rel="stylesheet">
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -107,6 +109,40 @@
                     <p><audio id="audio" src="bnbn.mp3"
                               autoplay controls></audio></p>
                     <hr>
+                    <div class="buttons">
+  <button class="blob-btn">
+    Blob Button
+    <span class="blob-btn__inner">
+      <span class="blob-btn__blobs">
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+      </span>
+    </span>
+  </button>
+  <br/>
+  <button class="blob-btn">
+    This one is slightly bigger
+    <span class="blob-btn__inner">
+      <span class="blob-btn__blobs">
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+        <span class="blob-btn__blob"></span>
+      </span>
+    </span>
+  </button>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <defs>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="10"></feGaussianBlur>
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 21 -7" result="goo"></feColorMatrix>
+      <feBlend in2="goo" in="SourceGraphic" result="mix"></feBlend>
+    </filter>
+  </defs>
+</svg>
                    
                 
    
