@@ -1,0 +1,500 @@
+<FontData>
+  <Texture>
+    data/fonts/font_pixel_huge.png
+  </Texture>
+  <LineHeight>
+    7
+  </LineHeight>
+  <CharSpace>
+    0
+  </CharSpace>
+  <WordSpace>
+    6
+  </WordSpace>
+<Char id = "48" rect_h = "15" rect_w = "8" rect_x = "0" rect_y = "0" > 
+</Char>
+<Char id = "33" rect_h = "15" rect_w = "4" rect_x = "8" rect_y = "0" > 
+</Char>
+<Char id = "34" rect_h = "15" rect_w = "4" rect_x = "16" rect_y = "0" > 
+</Char>
+<Char id = "8221" rect_h = "15" rect_w = "4" rect_x = "16" rect_y = "0" > 
+</Char>
+<Char id = "8220" rect_h = "15" rect_w = "4" rect_x = "16" rect_y = "0" > 
+</Char>
+<Char id = "35" rect_h = "15" rect_w = "8" rect_x = "24" rect_y = "0" > 
+</Char>
+<Char id = "36" rect_h = "15" rect_w = "8" rect_x = "32" rect_y = "0" > 
+</Char>
+<Char id = "37" rect_h = "15" rect_w = "8" rect_x = "40" rect_y = "0" > 
+</Char>
+<Char id = "38" rect_h = "15" rect_w = "8" rect_x = "48" rect_y = "0" > 
+</Char>
+<Char id = "39" rect_h = "15" rect_w = "3" rect_x = "56" rect_y = "0" > 
+</Char>
+<Char id = "40" rect_h = "15" rect_w = "8" rect_x = "64" rect_y = "0" > 
+</Char>
+<Char id = "41" rect_h = "15" rect_w = "8" rect_x = "72" rect_y = "0" > 
+</Char>
+<Char id = "42" rect_h = "15" rect_w = "8" rect_x = "80" rect_y = "0" > 
+</Char>
+<Char id = "43" rect_h = "15" rect_w = "8" rect_x = "88" rect_y = "0" > 
+</Char>
+<Char id = "44" rect_h = "15" rect_w = "5" rect_x = "96" rect_y = "0" > 
+</Char>
+<Char id = "45" rect_h = "15" rect_w = "8" rect_x = "104" rect_y = "0" > 
+</Char>
+<Char id = "46" rect_h = "15" rect_w = "4" rect_x = "112" rect_y = "0" > 
+</Char>
+<Char id = "47" rect_h = "15" rect_w = "8" rect_x = "120" rect_y = "0" > 
+</Char>
+<Char id = "48" rect_h = "15" rect_w = "8" rect_x = "128" rect_y = "0" > 
+</Char>
+<Char id = "49" rect_h = "15" rect_w = "8" rect_x = "136" rect_y = "0" > 
+</Char>
+<Char id = "50" rect_h = "15" rect_w = "8" rect_x = "144" rect_y = "0" > 
+</Char>
+<Char id = "51" rect_h = "15" rect_w = "8" rect_x = "152" rect_y = "0" > 
+</Char>
+<Char id = "52" rect_h = "15" rect_w = "8" rect_x = "160" rect_y = "0" > 
+</Char>
+<Char id = "53" rect_h = "15" rect_w = "8" rect_x = "168" rect_y = "0" > 
+</Char>
+<Char id = "54" rect_h = "15" rect_w = "8" rect_x = "176" rect_y = "0" > 
+</Char>
+<Char id = "55" rect_h = "15" rect_w = "8" rect_x = "184" rect_y = "0" > 
+</Char>
+<Char id = "56" rect_h = "15" rect_w = "8" rect_x = "192" rect_y = "0" > 
+</Char>
+<Char id = "57" rect_h = "15" rect_w = "8" rect_x = "200" rect_y = "0" > 
+</Char>
+<Char id = "58" rect_h = "15" rect_w = "8" rect_x = "208" rect_y = "0" > 
+</Char>
+<Char id = "59" rect_h = "15" rect_w = "8" rect_x = "216" rect_y = "0" > 
+</Char>
+<Char id = "60" rect_h = "15" rect_w = "8" rect_x = "224" rect_y = "0" > 
+</Char>
+<Char id = "61" rect_h = "15" rect_w = "8" rect_x = "232" rect_y = "0" > 
+</Char>
+<Char id = "62" rect_h = "15" rect_w = "8" rect_x = "240" rect_y = "0" > 
+</Char>
+<Char id = "63" rect_h = "15" rect_w = "8" rect_x = "248" rect_y = "0" > 
+</Char>
+<Char id = "64" rect_h = "15" rect_w = "8" rect_x = "256" rect_y = "0" > 
+</Char>
+<Char id = "65" rect_h = "15" rect_w = "8" rect_x = "264" rect_y = "0" > 
+</Char>
+<Char id = "66" rect_h = "15" rect_w = "8" rect_x = "272" rect_y = "0" > 
+</Char>
+<Char id = "67" rect_h = "15" rect_w = "8" rect_x = "280" rect_y = "0" > 
+</Char>
+<Char id = "68" rect_h = "15" rect_w = "8" rect_x = "288" rect_y = "0" > 
+</Char>
+<Char id = "69" rect_h = "15" rect_w = "8" rect_x = "296" rect_y = "0" > 
+</Char>
+<Char id = "70" rect_h = "15" rect_w = "8" rect_x = "304" rect_y = "0" > 
+</Char>
+<Char id = "71" rect_h = "15" rect_w = "8" rect_x = "312" rect_y = "0" > 
+</Char>
+<Char id = "72" rect_h = "15" rect_w = "8" rect_x = "320" rect_y = "0" > 
+</Char>
+<Char id = "73" rect_h = "15" rect_w = "5" rect_x = "328" rect_y = "0" > 
+</Char>
+<Char id = "74" rect_h = "15" rect_w = "8" rect_x = "336" rect_y = "0" > 
+</Char>
+<Char id = "75" rect_h = "15" rect_w = "8" rect_x = "344" rect_y = "0" > 
+</Char>
+<Char id = "76" rect_h = "15" rect_w = "8" rect_x = "352" rect_y = "0" > 
+</Char>
+<Char id = "77" rect_h = "15" rect_w = "8" rect_x = "360" rect_y = "0" > 
+</Char>
+<Char id = "78" rect_h = "15" rect_w = "8" rect_x = "368" rect_y = "0" > 
+</Char>
+<Char id = "79" rect_h = "15" rect_w = "8" rect_x = "376" rect_y = "0" > 
+</Char>
+<Char id = "80" rect_h = "15" rect_w = "8" rect_x = "384" rect_y = "0" > 
+</Char>
+<Char id = "81" rect_h = "15" rect_w = "8" rect_x = "392" rect_y = "0" > 
+</Char>
+<Char id = "82" rect_h = "15" rect_w = "8" rect_x = "400" rect_y = "0" > 
+</Char>
+<Char id = "83" rect_h = "15" rect_w = "8" rect_x = "408" rect_y = "0" > 
+</Char>
+<Char id = "84" rect_h = "15" rect_w = "8" rect_x = "416" rect_y = "0" > 
+</Char>
+<Char id = "85" rect_h = "15" rect_w = "8" rect_x = "424" rect_y = "0" > 
+</Char>
+<Char id = "86" rect_h = "15" rect_w = "8" rect_x = "432" rect_y = "0" > 
+</Char>
+<Char id = "87" rect_h = "15" rect_w = "8" rect_x = "440" rect_y = "0" > 
+</Char>
+<Char id = "88" rect_h = "15" rect_w = "8" rect_x = "448" rect_y = "0" > 
+</Char>
+<Char id = "89" rect_h = "15" rect_w = "8" rect_x = "456" rect_y = "0" > 
+</Char>
+<Char id = "90" rect_h = "15" rect_w = "8" rect_x = "464" rect_y = "0" > 
+</Char>
+<Char id = "91" rect_h = "15" rect_w = "8" rect_x = "472" rect_y = "0" > 
+</Char>
+<Char id = "92" rect_h = "15" rect_w = "8" rect_x = "480" rect_y = "0" > 
+</Char>
+<Char id = "93" rect_h = "15" rect_w = "8" rect_x = "488" rect_y = "0" > 
+</Char>
+<Char id = "94" rect_h = "15" rect_w = "8" rect_x = "496" rect_y = "0" > 
+</Char>
+<Char id = "95" rect_h = "15" rect_w = "8" rect_x = "504" rect_y = "0" > 
+</Char>
+<Char id = "96" rect_h = "15" rect_w = "3" rect_x = "512" rect_y = "0" > 
+</Char>
+<Char id = "97" rect_h = "15" rect_w = "8" rect_x = "520" rect_y = "0" > 
+</Char>
+<Char id = "98" rect_h = "15" rect_w = "8" rect_x = "528" rect_y = "0" > 
+</Char>
+<Char id = "99" rect_h = "15" rect_w = "8" rect_x = "536" rect_y = "0" > 
+</Char>
+<Char id = "100" rect_h = "15" rect_w = "8" rect_x = "544" rect_y = "0" > 
+</Char>
+<Char id = "101" rect_h = "15" rect_w = "8" rect_x = "552" rect_y = "0" > 
+</Char>
+<Char id = "102" rect_h = "15" rect_w = "8" rect_x = "560" rect_y = "0" > 
+</Char>
+<Char id = "103" rect_h = "15" rect_w = "8" rect_x = "568" rect_y = "0" > 
+</Char>
+<Char id = "104" rect_h = "15" rect_w = "8" rect_x = "576" rect_y = "0" > 
+</Char>
+<Char id = "105" rect_h = "15" rect_w = "5" rect_x = "584" rect_y = "0" > 
+</Char>
+<Char id = "106" rect_h = "15" rect_w = "8" rect_x = "592" rect_y = "0" > 
+</Char>
+<Char id = "107" rect_h = "15" rect_w = "8" rect_x = "600" rect_y = "0" > 
+</Char>
+<Char id = "108" rect_h = "15" rect_w = "8" rect_x = "608" rect_y = "0" > 
+</Char>
+<Char id = "109" rect_h = "15" rect_w = "8" rect_x = "616" rect_y = "0" > 
+</Char>
+<Char id = "110" rect_h = "15" rect_w = "8" rect_x = "624" rect_y = "0" > 
+</Char>
+<Char id = "111" rect_h = "15" rect_w = "8" rect_x = "632" rect_y = "0" > 
+</Char>
+<Char id = "112" rect_h = "15" rect_w = "8" rect_x = "640" rect_y = "0" > 
+</Char>
+<Char id = "113" rect_h = "15" rect_w = "8" rect_x = "648" rect_y = "0" > 
+</Char>
+<Char id = "114" rect_h = "15" rect_w = "8" rect_x = "656" rect_y = "0" > 
+</Char>
+<Char id = "115" rect_h = "15" rect_w = "8" rect_x = "664" rect_y = "0" > 
+</Char>
+<Char id = "116" rect_h = "15" rect_w = "8" rect_x = "672" rect_y = "0" > 
+</Char>
+<Char id = "117" rect_h = "15" rect_w = "8" rect_x = "680" rect_y = "0" > 
+</Char>
+<Char id = "118" rect_h = "15" rect_w = "8" rect_x = "688" rect_y = "0" > 
+</Char>
+<Char id = "119" rect_h = "15" rect_w = "8" rect_x = "696" rect_y = "0" > 
+</Char>
+<Char id = "120" rect_h = "15" rect_w = "8" rect_x = "704" rect_y = "0" > 
+</Char>
+<Char id = "121" rect_h = "15" rect_w = "8" rect_x = "712" rect_y = "0" > 
+</Char>
+<Char id = "122" rect_h = "15" rect_w = "8" rect_x = "720" rect_y = "0" > 
+</Char>
+<Char id = "40" rect_h = "15" rect_w = "8" rect_x = "728" rect_y = "0" > 
+</Char>
+<Char id = "124" rect_h = "15" rect_w = "8" rect_x = "736" rect_y = "0" > 
+</Char>
+<Char id = "41" rect_h = "15" rect_w = "8" rect_x = "744" rect_y = "0" > 
+</Char>
+<Char id = "94" rect_h = "15" rect_w = "8" rect_x = "752" rect_y = "0" > 
+</Char>
+<Char id = "126" rect_h = "15" rect_w = "8" rect_x = "760" rect_y = "0" > 
+</Char>
+<Char id = "32" rect_h = "15" rect_w = "8" rect_x = "768" rect_y = "0" > 
+</Char>
+<Char id = "252" rect_h = "15" rect_w = "8" rect_x = "776" rect_y = "0" > 
+</Char>
+<Char id = "233" rect_h = "15" rect_w = "8" rect_x = "784" rect_y = "0" > 
+</Char>
+<Char id = "196" rect_h = "15" rect_w = "8" rect_x = "792" rect_y = "0" > 
+</Char>
+<Char id = "228" rect_h = "15" rect_w = "8" rect_x = "800" rect_y = "0" > 
+</Char>
+<Char id = "214" rect_h = "15" rect_w = "8" rect_x = "808" rect_y = "0" > 
+</Char>
+<Char id = "246" rect_h = "15" rect_w = "8" rect_x = "816" rect_y = "0" > 
+</Char>
+<Char id = "197" rect_h = "15" rect_w = "8" rect_x = "824" rect_y = "0" > 
+</Char>
+<Char id = "229" rect_h = "15" rect_w = "8" rect_x = "832" rect_y = "0" > 
+</Char>
+<Char id = "220" rect_h = "15" rect_w = "8" rect_x = "840" rect_y = "0" > 
+</Char>
+<Char id = "223" rect_h = "15" rect_w = "8" rect_x = "848" rect_y = "0" > 
+</Char>
+<Char id = "193" rect_h = "15" rect_w = "8" rect_x = "856" rect_y = "0" > 
+</Char>
+<Char id = "225" rect_h = "15" rect_w = "8" rect_x = "864" rect_y = "0" > 
+</Char>
+<Char id = "201" rect_h = "15" rect_w = "8" rect_x = "872" rect_y = "0" > 
+</Char>
+<Char id = "205" rect_h = "15" rect_w = "4" rect_x = "880" rect_y = "0" > 
+</Char>
+<Char id = "237" rect_h = "15" rect_w = "4" rect_x = "888" rect_y = "0" > 
+</Char>
+<Char id = "211" rect_h = "15" rect_w = "8" rect_x = "896" rect_y = "0" > 
+</Char>
+<Char id = "243" rect_h = "15" rect_w = "8" rect_x = "904" rect_y = "0" > 
+</Char>
+<Char id = "218" rect_h = "15" rect_w = "8" rect_x = "912" rect_y = "0" > 
+</Char>
+<Char id = "250" rect_h = "15" rect_w = "8" rect_x = "920" rect_y = "0" > 
+</Char>
+<Char id = "209" rect_h = "15" rect_w = "8" rect_x = "928" rect_y = "0" > 
+</Char>
+<Char id = "241" rect_h = "15" rect_w = "8" rect_x = "936" rect_y = "0" > 
+</Char>
+<Char id = "161" rect_h = "15" rect_w = "4" rect_x = "944" rect_y = "0" > 
+</Char>
+<Char id = "191" rect_h = "15" rect_w = "7" rect_x = "952" rect_y = "0" > 
+</Char>
+<Char id = "192" rect_h = "15" rect_w = "8" rect_x = "960" rect_y = "0" > 
+</Char>
+<Char id = "224" rect_h = "15" rect_w = "8" rect_x = "968" rect_y = "0" > 
+</Char>
+<Char id = "200" rect_h = "15" rect_w = "8" rect_x = "976" rect_y = "0" > 
+</Char>
+<Char id = "232" rect_h = "15" rect_w = "8" rect_x = "984" rect_y = "0" > 
+</Char>
+<Char id = "217" rect_h = "15" rect_w = "8" rect_x = "992" rect_y = "0" > 
+</Char>
+<Char id = "249" rect_h = "15" rect_w = "8" rect_x = "1000" rect_y = "0" > 
+</Char>
+<Char id = "194" rect_h = "15" rect_w = "8" rect_x = "1008" rect_y = "0" > 
+</Char>
+<Char id = "226" rect_h = "15" rect_w = "8" rect_x = "1016" rect_y = "0" > 
+</Char>
+<Char id = "202" rect_h = "15" rect_w = "8" rect_x = "1024" rect_y = "0" > 
+</Char>
+<Char id = "234" rect_h = "15" rect_w = "8" rect_x = "1032" rect_y = "0" > 
+</Char>
+<Char id = "206" rect_h = "15" rect_w = "4" rect_x = "1040" rect_y = "0" > 
+</Char>
+<Char id = "238" rect_h = "15" rect_w = "4" rect_x = "1048" rect_y = "0" > 
+</Char>
+<Char id = "212" rect_h = "15" rect_w = "8" rect_x = "1056" rect_y = "0" > 
+</Char>
+<Char id = "244" rect_h = "15" rect_w = "8" rect_x = "1064" rect_y = "0" > 
+</Char>
+<Char id = "219" rect_h = "15" rect_w = "8" rect_x = "1072" rect_y = "0" > 
+</Char>
+<Char id = "251" rect_h = "15" rect_w = "8" rect_x = "1080" rect_y = "0" > 
+</Char>
+<Char id = "199" rect_h = "15" rect_w = "8" rect_x = "1088" rect_y = "0" > 
+</Char>
+<Char id = "231" rect_h = "15" rect_w = "8" rect_x = "1096" rect_y = "0" > 
+</Char>
+<Char id = "203" rect_h = "15" rect_w = "8" rect_x = "1104" rect_y = "0" > 
+</Char>
+<Char id = "235" rect_h = "15" rect_w = "8" rect_x = "1112" rect_y = "0" > 
+</Char>
+<Char id = "207" rect_h = "15" rect_w = "4" rect_x = "1120" rect_y = "0" > 
+</Char>
+<Char id = "239" rect_h = "15" rect_w = "4" rect_x = "1128" rect_y = "0" > 
+</Char>
+<Char id = "195" rect_h = "15" rect_w = "8" rect_x = "1136" rect_y = "0" > 
+</Char>
+<Char id = "227" rect_h = "15" rect_w = "8" rect_x = "1144" rect_y = "0" > 
+</Char>
+<Char id = "213" rect_h = "15" rect_w = "8" rect_x = "1152" rect_y = "0" > 
+</Char>
+<Char id = "245" rect_h = "15" rect_w = "8" rect_x = "1160" rect_y = "0" > 
+</Char>
+<Char id = "260" rect_h = "15" rect_w = "8" rect_x = "1168" rect_y = "0" > 
+</Char>
+<Char id = "261" rect_h = "15" rect_w = "8" rect_x = "1176" rect_y = "0" > 
+</Char>
+<Char id = "262" rect_h = "15" rect_w = "8" rect_x = "1184" rect_y = "0" > 
+</Char>
+<Char id = "263" rect_h = "15" rect_w = "8" rect_x = "1192" rect_y = "0" > 
+</Char>
+<Char id = "280" rect_h = "15" rect_w = "8" rect_x = "1200" rect_y = "0" > 
+</Char>
+<Char id = "281" rect_h = "15" rect_w = "8" rect_x = "1208" rect_y = "0" > 
+</Char>
+<Char id = "321" rect_h = "15" rect_w = "8" rect_x = "1216" rect_y = "0" > 
+</Char>
+<Char id = "322" rect_h = "15" rect_w = "8" rect_x = "1224" rect_y = "0" > 
+</Char>
+<Char id = "323" rect_h = "15" rect_w = "8" rect_x = "1232" rect_y = "0" > 
+</Char>
+<Char id = "324" rect_h = "15" rect_w = "8" rect_x = "1240" rect_y = "0" > 
+</Char>
+<Char id = "346" rect_h = "15" rect_w = "8" rect_x = "1248" rect_y = "0" > 
+</Char>
+<Char id = "347" rect_h = "15" rect_w = "8" rect_x = "1256" rect_y = "0" > 
+</Char>
+<Char id = "377" rect_h = "15" rect_w = "8" rect_x = "1264" rect_y = "0" > 
+</Char>
+<Char id = "378" rect_h = "15" rect_w = "8" rect_x = "1272" rect_y = "0" > 
+</Char>
+<Char id = "379" rect_h = "15" rect_w = "8" rect_x = "1280" rect_y = "0" > 
+</Char>
+<Char id = "380" rect_h = "15" rect_w = "8" rect_x = "1288" rect_y = "0" > 
+</Char>
+<Char id = "8734" rect_h = "15" rect_w = "10" rect_x = "1296" rect_y = "0" > 
+</Char>
+<Char id = "169" rect_h = "15" rect_w = "8" rect_x = "1307" rect_y = "0" > 
+</Char>
+<Char id = "1025" rect_h = "15" rect_w = "8" rect_x = "0" rect_y = "15" > 
+</Char>
+<Char id = "1105" rect_h = "15" rect_w = "8" rect_x = "8" rect_y = "15" > 
+</Char>
+<Char id = "1040" rect_h = "15" rect_w = "8" rect_x = "16" rect_y = "15" > 
+</Char>
+<Char id = "1072" rect_h = "15" rect_w = "8" rect_x = "24" rect_y = "15" > 
+</Char>
+<Char id = "1041" rect_h = "15" rect_w = "8" rect_x = "32" rect_y = "15" > 
+</Char>
+<Char id = "1073" rect_h = "15" rect_w = "8" rect_x = "40" rect_y = "15" > 
+</Char>
+<Char id = "1042" rect_h = "15" rect_w = "8" rect_x = "48" rect_y = "15" > 
+</Char>
+<Char id = "1074" rect_h = "15" rect_w = "8" rect_x = "56" rect_y = "15" > 
+</Char>
+<Char id = "1043" rect_h = "15" rect_w = "8" rect_x = "64" rect_y = "15" > 
+</Char>
+<Char id = "1075" rect_h = "15" rect_w = "8" rect_x = "72" rect_y = "15" > 
+</Char>
+<Char id = "1044" rect_h = "15" rect_w = "8" rect_x = "80" rect_y = "15" > 
+</Char>
+<Char id = "1076" rect_h = "15" rect_w = "8" rect_x = "88" rect_y = "15" > 
+</Char>
+<Char id = "1045" rect_h = "15" rect_w = "8" rect_x = "96" rect_y = "15" > 
+</Char>
+<Char id = "1077" rect_h = "15" rect_w = "8" rect_x = "104" rect_y = "15" > 
+</Char>
+<Char id = "1046" rect_h = "15" rect_w = "8" rect_x = "112" rect_y = "15" > 
+</Char>
+<Char id = "1078" rect_h = "15" rect_w = "8" rect_x = "120" rect_y = "15" > 
+</Char>
+<Char id = "1047" rect_h = "15" rect_w = "8" rect_x = "128" rect_y = "15" > 
+</Char>
+<Char id = "1079" rect_h = "15" rect_w = "8" rect_x = "136" rect_y = "15" > 
+</Char>
+<Char id = "1048" rect_h = "15" rect_w = "8" rect_x = "144" rect_y = "15" > 
+</Char>
+<Char id = "1080" rect_h = "15" rect_w = "8" rect_x = "152" rect_y = "15" > 
+</Char>
+<Char id = "1049" rect_h = "15" rect_w = "8" rect_x = "160" rect_y = "15" > 
+</Char>
+<Char id = "1081" rect_h = "15" rect_w = "8" rect_x = "168" rect_y = "15" > 
+</Char>
+<Char id = "1050" rect_h = "15" rect_w = "8" rect_x = "176" rect_y = "15" > 
+</Char>
+<Char id = "1082" rect_h = "15" rect_w = "8" rect_x = "184" rect_y = "15" > 
+</Char>
+<Char id = "1051" rect_h = "15" rect_w = "8" rect_x = "192" rect_y = "15" > 
+</Char>
+<Char id = "1083" rect_h = "15" rect_w = "8" rect_x = "200" rect_y = "15" > 
+</Char>
+<Char id = "1052" rect_h = "15" rect_w = "8" rect_x = "208" rect_y = "15" > 
+</Char>
+<Char id = "1084" rect_h = "15" rect_w = "8" rect_x = "216" rect_y = "15" > 
+</Char>
+<Char id = "1053" rect_h = "15" rect_w = "8" rect_x = "224" rect_y = "15" > 
+</Char>
+<Char id = "1085" rect_h = "15" rect_w = "8" rect_x = "232" rect_y = "15" > 
+</Char>
+<Char id = "1054" rect_h = "15" rect_w = "8" rect_x = "240" rect_y = "15" > 
+</Char>
+<Char id = "1086" rect_h = "15" rect_w = "8" rect_x = "248" rect_y = "15" > 
+</Char>
+<Char id = "1055" rect_h = "15" rect_w = "8" rect_x = "256" rect_y = "15" > 
+</Char>
+<Char id = "1087" rect_h = "15" rect_w = "8" rect_x = "264" rect_y = "15" > 
+</Char>
+<Char id = "1056" rect_h = "15" rect_w = "8" rect_x = "272" rect_y = "15" > 
+</Char>
+<Char id = "1088" rect_h = "15" rect_w = "8" rect_x = "280" rect_y = "15" > 
+</Char>
+<Char id = "1057" rect_h = "15" rect_w = "8" rect_x = "288" rect_y = "15" > 
+</Char>
+<Char id = "1089" rect_h = "15" rect_w = "8" rect_x = "296" rect_y = "15" > 
+</Char>
+<Char id = "1058" rect_h = "15" rect_w = "8" rect_x = "304" rect_y = "15" > 
+</Char>
+<Char id = "1090" rect_h = "15" rect_w = "8" rect_x = "312" rect_y = "15" > 
+</Char>
+<Char id = "1059" rect_h = "15" rect_w = "8" rect_x = "320" rect_y = "15" > 
+</Char>
+<Char id = "1091" rect_h = "15" rect_w = "8" rect_x = "328" rect_y = "15" > 
+</Char>
+<Char id = "1060" rect_h = "15" rect_w = "8" rect_x = "336" rect_y = "15" > 
+</Char>
+<Char id = "1092" rect_h = "15" rect_w = "8" rect_x = "344" rect_y = "15" > 
+</Char>
+<Char id = "1061" rect_h = "15" rect_w = "8" rect_x = "352" rect_y = "15" > 
+</Char>
+<Char id = "1093" rect_h = "15" rect_w = "8" rect_x = "360" rect_y = "15" > 
+</Char>
+<Char id = "1062" rect_h = "15" rect_w = "8" rect_x = "368" rect_y = "15" > 
+</Char>
+<Char id = "1094" rect_h = "15" rect_w = "8" rect_x = "376" rect_y = "15" > 
+</Char>
+<Char id = "1063" rect_h = "15" rect_w = "8" rect_x = "384" rect_y = "15" > 
+</Char>
+<Char id = "1095" rect_h = "15" rect_w = "8" rect_x = "392" rect_y = "15" > 
+</Char>
+<Char id = "1064" rect_h = "15" rect_w = "8" rect_x = "400" rect_y = "15" > 
+</Char>
+<Char id = "1096" rect_h = "15" rect_w = "8" rect_x = "408" rect_y = "15" > 
+</Char>
+<Char id = "1065" rect_h = "15" rect_w = "8" rect_x = "416" rect_y = "15" > 
+</Char>
+<Char id = "1097" rect_h = "15" rect_w = "8" rect_x = "424" rect_y = "15" > 
+</Char>
+<Char id = "1066" rect_h = "15" rect_w = "8" rect_x = "432" rect_y = "15" > 
+</Char>
+<Char id = "1098" rect_h = "15" rect_w = "8" rect_x = "440" rect_y = "15" > 
+</Char>
+<Char id = "1067" rect_h = "15" rect_w = "8" rect_x = "448" rect_y = "15" > 
+</Char>
+<Char id = "1099" rect_h = "15" rect_w = "8" rect_x = "456" rect_y = "15" > 
+</Char>
+<Char id = "1068" rect_h = "15" rect_w = "7" rect_x = "464" rect_y = "15" > 
+</Char>
+<Char id = "1100" rect_h = "15" rect_w = "7" rect_x = "472" rect_y = "15" > 
+</Char>
+<Char id = "1069" rect_h = "15" rect_w = "8" rect_x = "480" rect_y = "15" > 
+</Char>
+<Char id = "1101" rect_h = "15" rect_w = "8" rect_x = "488" rect_y = "15" > 
+</Char>
+<Char id = "1070" rect_h = "15" rect_w = "8" rect_x = "496" rect_y = "15" > 
+</Char>
+<Char id = "1102" rect_h = "15" rect_w = "8" rect_x = "504" rect_y = "15" > 
+</Char>
+<Char id = "1071" rect_h = "15" rect_w = "8" rect_x = "512" rect_y = "15" > 
+</Char>
+<Char id = "1103" rect_h = "15" rect_w = "8" rect_x = "520" rect_y = "15" > 
+</Char>
+<Char id = "216" rect_h = "15" rect_w = "8" rect_x = "528" rect_y = "15" > 
+</Char>
+<Char id = "248" rect_h = "15" rect_w = "8" rect_x = "536" rect_y = "15" > 
+</Char>
+<Char id = "8211" rect_h = "15" rect_w = "8" rect_x = "544" rect_y = "15" > 
+</Char>
+<Char id = "8212" rect_h = "15" rect_w = "8" rect_x = "544" rect_y = "15" > 
+</Char>
+<Char id = "171" rect_h = "15" rect_w = "8" rect_x = "552" rect_y = "15" > 
+</Char>
+<Char id = "187" rect_h = "15" rect_w = "8" rect_x = "560" rect_y = "15" > 
+</Char>
+<Char id = "8230" rect_h = "15" rect_w = "8" rect_x = "568" rect_y = "15" > 
+</Char>
+<Char id = "338" rect_h = "15" rect_w = "8" rect_x = "576" rect_y = "15" > 
+</Char>
+<Char id = "339" rect_h = "15" rect_w = "8" rect_x = "584" rect_y = "15" > 
+</Char>
+<Char id = "8222" rect_h = "15" rect_w = "4" rect_x = "592" rect_y = "15" > 
+</Char>
+<Char id = "8217" rect_h = "15" rect_w = "3" rect_x = "600" rect_y = "15" > 
+</Char>
+</FontData>

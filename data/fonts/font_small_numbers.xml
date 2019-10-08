@@ -1,0 +1,36 @@
+<FontData>
+  <Texture>
+    data/fonts/font_small_numbers.png
+  </Texture>
+  <LineHeight>
+    7
+  </LineHeight>
+  <CharSpace>
+    0
+  </CharSpace>
+  <WordSpace>
+    4
+  </WordSpace>
+<Char id = "48" rect_h = "6" rect_w = "4" rect_x = "0" rect_y = "0" > 
+</Char>
+<Char id = "49" rect_h = "6" rect_w = "4" rect_x = "4" rect_y = "0" > 
+</Char>
+<Char id = "50" rect_h = "6" rect_w = "4" rect_x = "8" rect_y = "0" > 
+</Char>
+<Char id = "51" rect_h = "6" rect_w = "4" rect_x = "12" rect_y = "0" > 
+</Char>
+<Char id = "52" rect_h = "6" rect_w = "4" rect_x = "16" rect_y = "0" > 
+</Char>
+<Char id = "53" rect_h = "6" rect_w = "4" rect_x = "20" rect_y = "0" > 
+</Char>
+<Char id = "54" rect_h = "6" rect_w = "4" rect_x = "24" rect_y = "0" > 
+</Char>
+<Char id = "55" rect_h = "6" rect_w = "4" rect_x = "28" rect_y = "0" > 
+</Char>
+<Char id = "56" rect_h = "6" rect_w = "4" rect_x = "32" rect_y = "0" > 
+</Char>
+<Char id = "57" rect_h = "6" rect_w = "4" rect_x = "36" rect_y = "0" > 
+</Char>
+<Char id = "8734" rect_h = "6" rect_w = "9" rect_x = "40" rect_y = "0" > 
+</Char>
+</FontData>
