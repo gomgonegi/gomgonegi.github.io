@@ -1,0 +1,39 @@
+stb_image - v2.00b - public domain image loader - http://nothings.org/stb_image.h
+no warranty implied; use at your own risk
+
+============================    Contributors    =========================
+
+Image formats                                Bug fixes & warning fixes
+Sean Barrett (jpeg, png, bmp)                Marc LeBlanc
+Nicolas Schulz (hdr, psd)                    Christpher Lloyd
+Jonathan Dummer (tga)                        Dave Moore
+Jean-Marc Lienher (gif)                      Won Chun
+Tom Seddon (pic)                             the Horde3D community
+Thatcher Ulrich (psd)                        Janez Zemva
+Ken Miller (pgm, ppm)                        Jonathan Blow
+Laurent Gomila
+Aruelien Pocheville
+Extensions, features                            Ryamond Barbiero
+Jetro Lauha (stbi_info)                      David Woo
+Martin "SpartanJ" Golini (stbi_info)         Martin Golini
+James "moose2000" Brown (iPhone PNG)         Roy Eltham
+Ben "Disch" Wenger (io callbacks)            Luke Graham
+Omar Cornut (1/2/4-bit PNG)                  Thomas Ruf
+John Bartholomew
+Ken Hamada
+Optimizations & bugfixes                        Cort Stratton
+Fabian "ryg" Giesen                          Blazej Dariusz Roszkowski
+Arseny Kapoulkine                            Thibault Reuille
+Paul Du Bois
+Guillaume George
+If your name should be here but                Jerry Jansson
+isn't, let Sean know.                          Hayaki Saito
+Johan Duparc
+Ronny Chevalier
+Michal Cichon
+Tero Hanninen
+
+License:
+This software is in the public domain. Where that dedication is not
+recognized, you are granted a perpetual, irrevocable license to copy
+and modify this file however you want.

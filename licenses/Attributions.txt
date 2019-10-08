@@ -1,0 +1,68 @@
+--------------
+
+file: data/materials_gfx/test_vine.png 
+
+Uses image: 
+https://www.flickr.com/photos/martisimas/5454695132 by martisimas
+under CC BY 2.0 - Attribution 2.0 Generic (CC BY 2.0)
+
+--------------
+
+data/biome_impl/spliced/skull_in_desert
+
+uses image:
+https://www.flickr.com/photos/75398626@N08/6772632125
+"Skull at Clearbury" by justfluff is licensed under (CC BY 2.0)
+
+--------------
+
+data/biome_impl/spliced/tree_visual
+
+uses: 
+https://www.textures.com/download/barkpine0007/4894
+
+Can be used in commercial products, doesn't need any credits
+
+--------------
+
+data/biome_impl/dragoncave.png
+
+uses:
+https://commons.wikimedia.org/wiki/File:Eggs_of_British_Birds_Seebohm_1896_Plate21_The_Common_Loon.jpg
+
+It is in public domain - no need for credits
+
+--------------
+
+data/biome_impl/moon.png 
+
+uses:
+https://commons.wikimedia.org/wiki/File:FullMoonHauknes.jpg
+
+Under CC Attribution 3.0 Unported
+Frode Steen
+
+--------------
+
+Freesound audio:
+
+This video game uses these sounds from freesound:
+Generator1.wav by HerbertBoland 
+https://freesound.org/people/HerbertBoland/sounds/114594/
+under the Creative Commons Attribution License 3.0
+
+Distant explosion.wav by juskiddink
+https://freesound.org/people/juskiddink/sounds/108640/
+under the Creative Commons Attribution License 3.0
+
+Explosion004.wav by klangfabrik
+https://freesound.org/people/klangfabrik/sounds/220062/
+under the Creative Commons 0 License 1.0
+
+ELEMENTS_FIRE_01_Burning-Room.wav by suonho
+https://freesound.org/people/suonho/sounds/17725/
+under the Creative Commons 0 License 1.0
+
+Please find the full Creative Commons licenses under the licenses folder in the game directory.
+
+---------
