@@ -1,0 +1,43 @@
+<!-- 
+
+Welcome fellow seeker of knowledge. Unfortunately this file will not give you what you seek, for this file only holds the default values.  
+
+Heed my words of warning. You must venture into the depths of AppData to find you what you seek. It is a dangerous journey filled with peril. 
+
+Type these magical words into the Explorer of files 
+%appdata%\..\LocalLow\Nolla_Games_Noita\save_shared
+
+And behold the source of true power and knowledge: The coveted True config.xml. 
+
+Remember with great power comes great responsibility.
+
+Just know that if things go awry, destroying the evil corrupted c:\Users\USERNAME\AppData\LocalLow\Nolla_Games_Noita\save_shared\config.xml will return you to relative safety and comfort.
+
+-->
+
+<Config 
+
+	vsync="0"
+
+	sounds="1" 
+
+	record_events="0" 
+	do_a_playback="0" 
+
+  	report_fps="0"
+  	event_recorder_flush_every_frame="0"
+
+	fullscreen="0"
+	display_id="0"
+
+	internal_size_w="1280" 
+	internal_size_h="720" 
+
+	joysticks_enabled="0"
+	ui_report_damage="1"
+	
+	application_rendered_cursor="1"
+>
+
+
+</Config>
